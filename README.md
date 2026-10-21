@@ -10,4 +10,4 @@ GitHub Pages is deployed from the `public/` folder by `.github/workflows/pages.y
 
 This page describes features present in Karina Version 7. Playback performance, format support, HDR and high-resolution playback vary with the Mac, display and media file. AI subtitle translation is opt-in and sends subtitle text plus nearby dialogue context to the OpenAI API; media files remain on the Mac.
 
-The app is free. The currently preserved v7.0.0 GitHub release has no installable app asset, so the site marks the public signed installer as coming soon rather than linking to source archives as if they were an installer.
+Karina 7.0.0 is available as a universal macOS preview from the public `karina-v7.0.0-preview` release. It requires macOS 15 Sequoia or later and supports Intel and Apple silicon Macs that can run that OS. The preview is not Developer ID signed or notarized, so macOS Gatekeeper may warn or block it on first launch. The website states this limitation; a signed and notarized release requires a Developer ID signing identity.
