@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Karina updates</title>
+    <link>https://notthedream.github.io/karina-website/</link>
+    <description>Updates for Karina Media Player for Mac.</description>
+    <language>en</language>
+    <item>
+      <title>Karina 7.2.0</title>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>70200</sparkle:version>
+      <sparkle:shortVersionString>7.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Automatic update checks with a choice to install, plus the playback cancellation and idle-sleep changes introduced in 7.1.]]></description>
+      <enclosure url="https://github.com/notthedream/karina-website/releases/download/karina-v7.2.0-preview/Karina-7.2.0-macOS-universal.zip" sparkle:edSignature="nRmskdggcTKD/3FKBaENf7vfg3hGPxrldyaAwJZ/J3y1RnxJeXwEvyp8xnxZ7Wd3+cLlXbtNs2WDRzq+vlKKCA==" length="28570717" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
